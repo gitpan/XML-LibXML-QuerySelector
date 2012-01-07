@@ -14,10 +14,10 @@ not run its Makefile.PL or Build.PL.
 -----BEGIN PGP SIGNED MESSAGE-----
 Hash: SHA1
 
-SHA1 4918f4bb542ebd878965eef6647908c46808b73d Changes
+SHA1 5b1e10be3aa5e214e2d857ceaa5ac32da8da7f35 Changes
 SHA1 1d54db0b8134eb1c8ea0cee400f9dc612bcaa61a LICENSE
 SHA1 3c7a22c8526ad3ee356729045389e49e2764f6a9 MANIFEST
-SHA1 260989392b94fee38ea0f1ac0f7de55edef6098c META.yml
+SHA1 96e9b6e2e76152591cbbc071b225bf7420e4611b META.yml
 SHA1 7150e5e086ef493e1e527a1eeec44a8344b80db6 Makefile.PL
 SHA1 d31be359a20db8aa78d3e76042b97ca67973fbbc README
 SHA1 5d94bc10deff1dd74e4bc5dfa6fc015e39271f15 inc/Module/AutoInstall.pm
@@ -39,16 +39,16 @@ SHA1 6b807287940754cc31a3db59f2b22e363d5525be inc/Module/Package/Dist/RDF.pm
 SHA1 775bd24f2fdbb6dce51a8b5b0cdb01fccfce83c4 inc/Scalar/Util.pm
 SHA1 b1b664983568bf822c327599eb88e223483ae96a inc/Scalar/Util/PP.pm
 SHA1 eef6bff62046bff2ce08ba132d0b58fba30f40b4 inc/YAML/Tiny.pm
-SHA1 26b338c2ae6b35e300af4ba36323fb34f4894838 lib/XML/LibXML/QuerySelector.pm
-SHA1 e41843d7f2859d76307b2df1651fc0ac19e24e80 meta/changes.ttl
-SHA1 f023a958b0ea007218ff6f28a9fa333a3b8e34c1 meta/doap.ttl
+SHA1 f30d1ae742802d1603f0ac72ad818be4faefbfe7 lib/XML/LibXML/QuerySelector.pm
+SHA1 4b9e4e923107607172caada1fa45b6b90a135fcb meta/changes.ttl
+SHA1 f99fe8a2ce43e4a9e1d2aeafe2e9d62c26fcf84c meta/doap.ttl
 SHA1 d88da80fa06a832dbecec3b676b68eaa7cd19382 meta/makefile.ttl
 SHA1 561b970ca17c2635fca4cdffe45b1e2ad103203d t/01basic.t
-SHA1 b508a0c0bb87c2193ec5d4e56237049b821599b8 t/02level1.t
+SHA1 941a056d6b5e1ab7e2d5a605c2531d2fd446734f t/02level1.t
 -----BEGIN PGP SIGNATURE-----
 Version: GnuPG v1.4.10 (GNU/Linux)
 
-iEUEARECAAYFAk8FeLkACgkQzr+BKGoqfTn8zgCfYYXrMX6aTkUcWhcVW4y+eo8J
-C1IAlR8YY53HcCLd0XIDMj9ewLpaeFk=
-=nxqW
+iEYEARECAAYFAk8IDlIACgkQzr+BKGoqfTlg0wCfScV2i2ez3wPCUSlwkduu25TN
+O1oAoJv/mWH9rsuvfJIdnR8Nh5nqnc08
+=DMVR
 -----END PGP SIGNATURE-----

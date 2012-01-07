@@ -5,6 +5,10 @@ Created:      2012-01-03
 Home page:    <https://metacpan.org/release/XML-LibXML-QuerySelector>
 Bug tracker:  <http://rt.cpan.org/Dist/Display.html?Queue=XML-LibXML-QuerySelector>
 
+0.002  2012-01-07
+
+ - (Packaging) Remove spurious 'use Data::Printer' from t/02level1.t
+
 0.001  2012-01-05
 # Initial release
 

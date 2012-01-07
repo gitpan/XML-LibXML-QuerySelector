@@ -10,7 +10,7 @@ use utf8;
 	BEGIN
 	{
 		$XML::LibXML::QuerySelector::AUTHORITY = 'cpan:TOBYINK';
-		$XML::LibXML::QuerySelector::VERSION   = '0.001';
+		$XML::LibXML::QuerySelector::VERSION   = '0.002';
 		
 		push @XML::LibXML::Document::ISA, __PACKAGE__;
 		push @XML::LibXML::DocumentFragment::ISA, __PACKAGE__;
@@ -73,7 +73,7 @@ use utf8;
 	BEGIN
 	{
 		$XML::LibXML::QuerySelector::ToXPath::AUTHORITY = 'cpan:TOBYINK';
-		$XML::LibXML::QuerySelector::ToXPath::VERSION   = '0.001';
+		$XML::LibXML::QuerySelector::ToXPath::VERSION   = '0.002';
 		
 		require HTML::Selector::XPath;
 		@ISA = qw/HTML::Selector::XPath/;

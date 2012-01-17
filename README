@@ -44,8 +44,6 @@ BUGS
     <http://rt.cpan.org/Dist/Display.html?Queue=XML-LibXML-QuerySelector>.
 
 TODO
-    *   Track changes to HTML::Selector::XPath.
-
     *   Consider adding HTML5 DOM traversal methods including
         "getElementsByClassName".
 
@@ -55,14 +53,12 @@ SEE ALSO
 AUTHOR
     Toby Inkster <tobyink@cpan.org>.
 
-    This module includes large portions of the not-easily-subclassable
-    HTML::Selector::XPath by Tatsuhiko Miyagawa and Max Maischein.
+THANKS
+    Tatsuhiko Miyagawa and Max Maischein, for HTML::Selector::XPath, and for
+    resolving <https://rt.cpan.org/Ticket/Display.html?id=73719> quickly.
 
 COPYRIGHT AND LICENCE
     This software is copyright (c) 2012 by Toby Inkster.
-
-    Portions copyright 2006-2011 by Tatsuhiko Miyagawa; portions copyright
-    2011 by Max Maischein.
 
     This is free software; you can redistribute it and/or modify it under
     the same terms as the Perl 5 programming language system itself.

@@ -5,6 +5,12 @@ Created:      2012-01-03
 Home page:    <https://metacpan.org/release/XML-LibXML-QuerySelector>
 Bug tracker:  <http://rt.cpan.org/Dist/Display.html?Queue=XML-LibXML-QuerySelector>
 
+0.003  2012-01-17
+
+ - use HTML::Selector::XPath 0.13
+ - (Removal) Dropped XML::LibXML::QuerySelector::ToXPath, which was a
+   bundled and modified version of HTML::Selector::XPath.
+
 0.002  2012-01-07
 
  - (Packaging) Remove spurious 'use Data::Printer' from t/02level1.t
